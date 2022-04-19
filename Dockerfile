@@ -5,9 +5,5 @@ RUN pip install pip update
 RUN pip install -r requirements.txt
 RUN pip install python-telegram-bot --upgrade
 
-ENV ACCESS_TOKEN=$ACCESS_TOKEN
-ENV HOST=$HOST
-ENV PASSWORD=$PASSWORD
-ENV REDISPORT=$REDISPORT
 
 CMD ["python","chatbot.py"]
