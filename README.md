@@ -1,15 +1,15 @@
 # 7940-group-project
 contribution
 -------------------------
-CHATBOT DEVELOPMENT
-21442185 Wang Yuhui 
-github id: shiki25wyh
+CHATBOT DEVELOPMENT  
+21442185 Wang Yuhui   
+github id: shiki25wyh  
 
 -------------------------
-DOCKER DEPLOYMENT
-21444471 Tang Zhiye
-github id: TangZhiye
+DOCKER DEPLOYMENT  
+21444471 Tang Zhiye  
+github id: TangZhiye  
 
 ------------------------
-Report paper & presentation
+Report paper & presentation  
 21459487 Zhang Yifu
