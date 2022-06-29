@@ -1,15 +1,4 @@
-# 7940-group-project
-contribution
--------------------------
-CHATBOT DEVELOPMENT  
-21442185 Wang Yuhui   
-github id: shiki25wyh  
+# telegram-chatbot  
+chatbot-id tmptest2022bot  
+  
 
--------------------------
-DOCKER DEPLOYMENT  
-21444471 Tang Zhiye  
-github id: TangZhiye  
-
-------------------------
-REPORTS & PRESENTATION  
-21459487 Zhang Yifu
